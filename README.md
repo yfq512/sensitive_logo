@@ -8,7 +8,7 @@
 ## 数据增强
 * 从图像的随机缩放、平移、旋转、仿射、色彩噪声、亮度等方面对数据进行增强
 * 原图
-![image](https://github.com/yfq512/sensitive_logo/blob/main/images/org.jpg)
+![image](https://github.com/yfq512/sensitive_logo/blob/main/images/org.png)
 
 * 增强
 ![image](https://github.com/yfq512/sensitive_logo/blob/main/images/generator.jpg)
