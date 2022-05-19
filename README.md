@@ -1,5 +1,5 @@
 ## 政治敏感logo——目标检测数据集
-* 下载: 链接: https://pan.baidu.com/s/1OGCj2QF47wkz8przX6LsGQ  密码: loh8
+* 下载: 链接: https://pan.baidu.com/s/1OGCj2QF47wkz8przX6LsaGQ  密码: loh8
 ## 数据说明
 * 当前标签种类：12
 
