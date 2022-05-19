@@ -7,7 +7,8 @@
 * 95%的数据通过数据增强在进行人工打标签
 ## 数据增强
 * 从图像的随机缩放、平移、旋转、仿射、色彩噪声、亮度等方面对数据进行增强
-原图
+* 原图
 ![image](https://github.com/yfq512/sensitive_logo/blob/main/images/org.jpg)
-增强
+
+* 增强
 ![image](https://github.com/yfq512/sensitive_logo/blob/main/images/generator.jpg)
