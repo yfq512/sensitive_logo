@@ -1,3 +1,4 @@
+[![Security Status](https://s.murphysec.com/badge/yfq512/sensitive_logo.svg)](https://www.murphysec.com/p/yfq512/sensitive_logo)
 ## 由于数据比较敏感，这里不公开了，可参考 https://github.com/yfq512/data_generation_tools 自己制作数据集
 ## 政治敏感logo——目标检测数据集
 * 下载: ????  密码: loh8
